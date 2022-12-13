@@ -1,9 +1,9 @@
 # Content Dialog
 비주얼 프로그래밍 기말시험 - 자유주제 C++/WinRT로 코딩하기
 
-<img src="/Assets/화면 캡처 2022-12-13 164852.png"></img><br/>
-<img src="/Assets/화면 캡처 2022-12-13 164911.png"></img><br/>
-<img src="/Assets/화면 캡처 2022-12-13 164921.png"></img><br/>
+<img src="/Assets/화면 캡처 2022-12-13 164852.png"></img><br/><br/>
+<img src="/Assets/화면 캡처 2022-12-13 164911.png"></img><br/><br/>
+<img src="/Assets/화면 캡처 2022-12-13 164921.png"></img><br/><br/>
 <img src="/Assets/화면 캡처 2022-12-13 164941.png"></img>
 
 
