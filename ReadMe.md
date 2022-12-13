@@ -6,6 +6,8 @@
 
 다이얼로그 내 이미지는 WinUI 3 갤러리에 있는 사진을 사용하였습니다.
 
+[실행영상](https://youtu.be/IngnFJ_2Xv4)
+
 <img src="/Assets/화면 캡처 2022-12-13 164852.png"></img><br/><br/>
 <img src="/Assets/화면 캡처 2022-12-13 164911.png"></img><br/><br/>
 <img src="/Assets/화면 캡처 2022-12-13 164921.png"></img><br/><br/>
